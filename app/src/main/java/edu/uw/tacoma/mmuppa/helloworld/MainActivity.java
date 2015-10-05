@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
                         .show();
             }
         });
+
+        //test
     }
 
     // Send button event handler
